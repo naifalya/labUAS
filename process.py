@@ -32,12 +32,12 @@ class PerpustakaanProcess:
                 if stok is not None:
                     buku.stok = stok
                 return True
-            return False
+        return False
 
     def hapus_buku(self,kode):
         for i, buku in enumerate(self.daftar_buku):
             if buku.kode == kode:
                 del self.daftar_buku[i]
                 return True
-            return False
+        return False
 
