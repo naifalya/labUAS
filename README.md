@@ -147,20 +147,19 @@ Total: 2 buku
 ##  Screenshot
 
 ### 1. Menu Utama
-![Menu Utama](screenshots/menu.png)
+<img width="409" height="362" alt="UASPP" src="https://github.com/user-attachments/assets/0f1ce779-08b4-49af-b8d3-58ea82d51ad9" />
 
 ### 2. Daftar Buku (Table View)
-![Daftar Buku](screenshots/daftar_buku.png)
+<img width="483" height="170" alt="Screenshot 2026-01-09 232158" src="https://github.com/user-attachments/assets/f0227026-c806-426c-9468-4fb2dce7c47c" />
 
 ### 3. Tambah Buku
-![Tambah Buku](screenshots/tambah_buku.png)
+<img width="612" height="320" alt="Screenshot 2026-01-09 232322" src="https://github.com/user-attachments/assets/aca85e06-3031-4da9-861f-56d508dbdeab" />
 
 ### 4. Validasi Error
-![Validasi](screenshots/validasi.png)
+<img width="382" height="176" alt="Screenshot 2026-01-09 232437" src="https://github.com/user-attachments/assets/3f463581-83a7-4de1-a8b1-83e66518cdb2" />
 
 
-
-## 🎥 Video Dokumentasi
+##  Video Dokumentasi
 
 **Link YouTube:** (https://youtu.be/g2Zq3zGdMFM)
 
